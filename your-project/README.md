@@ -17,19 +17,24 @@ The project is about the game Risk and its attack mechanics.
 It's one of the most known games of strategy around the world, and its mechanics have been copied and adapted for many other games.
 
 ## Rules
-Players set how many armies they posess, and the attacker chooses how many soldiers will attack. If he's succesfull, he will take the land the defender was occupying.
+Players set how many armies they posess.
+The attacker can only attack with maximum 3 troops, and he has to leave 1 troop on the land he comes from.
+The defender can only defend with maximum 2 troops.
+If the attacker is succesfull, he will take the land the defender was occupying.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+A dice roll generator is needed.
+Every player will have a pool of dice.
+Comparison of pools.
+"Killing" soldiers.
+New round.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used Trello to organize my work.
 
-What does your repository look like? Explain your folder and file structure.
+My repository only has two files: the main game file and a picture file.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Octavifdez/Project-Week-1-Build-Your-Own-Game)
+[Slides](https://slides.com/octavifernandez/soldiers-and-dice)
+[Kanban](https://trello.com/b/RQWSAP9S/project-week-1)
